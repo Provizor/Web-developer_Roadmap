@@ -14,6 +14,8 @@
 - [ ] Паттерны проектирования (Design Patterns)
 - [ ] Кодировки (Character Encodings)
 
+## :arrow_forward: Front-end
+
 ## :arrow_forward: Back-end
 :ballot_box_with_check: Выбор языка
   - [ ] Для начала **скриптовый язык**:
