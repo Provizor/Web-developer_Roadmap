@@ -1,6 +1,6 @@
 # Web-Developer Roadmap
 
-##  :arrow_forward: Обязательно для любого направления (back-end и front-end)
+## Обязательно для любого направления (back-end и front-end)
 - [ ] Базовое использование терминала
 - [ ] Git (контроль версий)
 - [X] GitHub
@@ -14,9 +14,9 @@
 - [ ] Паттерны проектирования (Design Patterns)
 - [ ] Кодировки (Character Encodings)
 
-## :arrow_forward: Front-end
+## Front-end
 
-## :arrow_forward: Back-end
+## Back-end
 :ballot_box_with_check: Выбор языка
   - [ ] Для начала **скриптовый язык**:
   - :white_check_mark: PHP
