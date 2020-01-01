@@ -1,6 +1,6 @@
 # Web-Developer Roadmap
 
-##  :arrow_forward: [**Обязательно для любого направления (back-end и front-end)**]
+##  :arrow_forward: [**Обязательно для любого направления (back-end и front-end)**](#ololo)
 - [ ] Базовое использование терминала
 - [ ] Git (контроль версий)
 - [X] GitHub
